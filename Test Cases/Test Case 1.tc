@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access Home Page Navigation and Title Verification</description>
+   <name>Test Case 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5dd0fa4-6e49-4541-823b-d24e4c6199e5</testCaseGuid>
+</TestCaseEntity>
